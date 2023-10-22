@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'StrokeDiagnosisSystem'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2755CD3F79A54F509AD1F33522E5BBB3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D717341760F9475CB44A90F5879BAC9E }}
           package: .
